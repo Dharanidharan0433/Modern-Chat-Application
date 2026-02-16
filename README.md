@@ -1,9 +1,9 @@
-**💬 Advanced Multi-Chat Application**
+#**💬 Advanced Multi-Chat Application**
 
 A modern multi-chat web application built using HTML, CSS, and JavaScript.
 It simulates a real-time messaging platform with chat management, smart bot replies, and a premium animated UI — fully client-side.
 
-**Features:**
+#**Features:**
 1) Multi-Chat Management
 
 ➕ Create new chat sessions
@@ -42,7 +42,7 @@ Smooth message animations
 
 Compact and modern chat bubbles
 
-**🛠️ Tech Stack**
+#**🛠️ Tech Stack**
 
 HTML5
 
@@ -54,7 +54,7 @@ LocalStorage API
 
 No frameworks. No backend. Fully browser-based.
 
-**▶️ Run Locally**
+#**▶️ Run Locally**
 
 Clone or download this repository
 
@@ -66,7 +66,7 @@ Start messaging
 
 No installation required.
 
-**📌 Project Highlights**
+#**📌 Project Highlights**
 
 Dynamic DOM manipulation
 
@@ -78,11 +78,11 @@ Interactive UI design principles
 
 Clean frontend architecture
 
-**👨‍💻 Author**
+#**👨‍💻 Author**
 
 Dharani Dharan
 Frontend Web Development Project
 
-**📄 License**
+#**📄 License**
 
 This project is open-source and intended for educational purposes.
