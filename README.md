@@ -49,10 +49,10 @@ Fully browser-based application.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/advanced-chat-app.git
+git clone https://github.com/Dharanidharan0433/Modern-Chat-Application.git
 
 # Open the project folder
-cd advanced-chat-app
+cd Modern-Chat-Application
 
 # Open in browser
 Open index.html
