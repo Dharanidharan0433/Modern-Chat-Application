@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Advanced Chat Application</title>
+    <link rel="icon" href="logo.png">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="mesh-bg"></div>
+
+<div class="app-container">
+
+    <!-- SIDEBAR -->
+    <div class="sidebar">
+        <div class="sidebar-header">
+            <h3>Chats</h3>
+            <button id="newChatBtn">＋</button>
+        </div>
+        <ul id="chatList"></ul>
+    </div>
+
+    <!-- CHAT AREA -->
+    <div class="chat-box">
+        <div class="chat-header">
+            <h2 id="chatTitle">Chat</h2>
+            <input type="text" id="searchInput" placeholder="🔍 Search in chat">
+        </div>
+
+        <div class="chat-body" id="chatBody"></div>
+
+        <div class="typing" id="typingIndicator">
+            Bot is typing<span>.</span><span>.</span><span>.</span>
+        </div>
+
+        <div class="chat-footer">
+            <input type="text" id="messageInput" placeholder="Type a message">
+            <button id="sendBtn">➤</button>
+        </div>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+
+
